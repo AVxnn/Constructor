@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ade0096f-d439-4380-a0cb-973484d19238" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdminPanel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdminPanel/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdminPanel/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List in progress/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List in progress/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List in progress/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bomber/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bomber/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bomber/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mainBlocks.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/blog-grid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/icon-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/icon-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/icon-photo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/lending-grid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/shop-grid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reactCourse/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tictacVxnn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tictacVxnn/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tictacVxnn/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Практика/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Практика/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Практика/stit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Проект/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Проект/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Проект/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Проект/style.sass" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1nf9RBkDUjJNXmL7DIyOrGJBwin" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="O:\Проекты\Базовый js\constructorSite\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ade0096f-d439-4380-a0cb-973484d19238" name="Default Changelist" comment="" />
+      <created>1611770267521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611770267521</updated>
+      <workItem from="1611770268589" duration="587000" />
+      <workItem from="1611771153448" duration="1309000" />
+      <workItem from="1611920507051" duration="1843000" />
+      <workItem from="1611923385824" duration="13162000" />
+      <workItem from="1611995116139" duration="3067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="327" key="EditFileWatcherDialog" timestamp="1611770307776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="327" key="EditFileWatcherDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611770307776" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1611923123740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1611923123740" />
+    <state x="491" y="184" key="SettingsEditor" timestamp="1611770308350">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="491" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1611770308350" />
+    <state x="741" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611947783066">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1611947783065" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1611924198663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1611924198663" />
+  </component>
+</project>
